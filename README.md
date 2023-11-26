@@ -22,5 +22,5 @@ Indian development aid is distributed across different sectors and in different 
 
 ## References
 
-Aiddata[METADATA] - https://www.aiddata.org/data/indian-development-finance-dataset-version-1-0
-Documentation - https://indiandevelopmentfinance.net/documentation/
+* Aiddata[METADATA] - https://www.aiddata.org/data/indian-development-finance-dataset-version-1-0
+* Documentation - https://indiandevelopmentfinance.net/documentation/
